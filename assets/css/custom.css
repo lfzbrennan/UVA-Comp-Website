@@ -1,0 +1,22 @@
+#learn-more {
+  color: white;
+  background-color: rgb(0, 159, 223);
+  transition: .5s;
+}
+
+#learn-more:hover, #learn-more:focus, #learn-more:active {
+  background-color: rgb(20, 30, 60);
+  color: white;
+  cursor: pointer;
+}
+
+#signup {
+  background-color: #E57200;
+  transition: .5s;
+  color: white;
+}
+
+#signup:hover, #signup:focus, #signup:active {
+  background-color: rgb(20, 30, 60);
+}
+
